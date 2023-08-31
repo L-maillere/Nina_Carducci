@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #797339;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -188,6 +188,10 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	z-index: 1;
+}
+
+.service h3 {
+	font-size: calc(1.275rem + 0.3vw);
 }
 
 #contact {
